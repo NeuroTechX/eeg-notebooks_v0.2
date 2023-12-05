@@ -1,4 +1,18 @@
 =============
+GREETINGS. 
+=============
+
+Just so you know, 
+
+The **eeg-notebooks** project has now become the **eeg-expy** project.
+ 
+To see the latest code, go to the `eeg-expy documentation site <https://neurotechx.github.io/eeg-expy/index.html>`_.
+
+The repo you're looking at currently is a fork that was created and frozen on 2023-12-04, after which 
+the repo name changed, along with various classes and functon calls. 
+
+
+=============
 EEG-Notebooks
 =============
 
